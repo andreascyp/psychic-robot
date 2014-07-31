@@ -1,6 +1,6 @@
-<?php>
+<?php
 
-<h1> this is my 1st try on github</h1>
+echo '<h1>this is my 1st try on github</h1>';
 
 
 ?>
